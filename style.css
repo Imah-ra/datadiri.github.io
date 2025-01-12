@@ -1,0 +1,40 @@
+section {
+    border: 1px solid #0d41b1;
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 0 5px #083086;
+}
+.judul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+.sub {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:rgb(255, 255, 255)
+}
+.perkenalan {
+    background-color: rgb(39, 169, 212);
+    background-size: 30px;
+    padding: 20px;
+    font-size: 15px;
+    color:aliceblue;
+}
+.dari {
+    background-color: rgb(39, 169, 212);
+    background-size: 30px;
+    padding: 20px;
+    font-size: 15px;
+    color:aliceblue
+}
+.kemampuan {
+    background-color: rgb(39, 169, 212);
+    background-size: 30px;
+    padding: 20px;
+    font-size: 15px;
+    color:aliceblue;
+}
+.media {
+    color: aliceblue;
+}
